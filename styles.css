@@ -1,0 +1,11 @@
+* {
+	background-color: black;
+	color: white;
+}
+.cool-background {
+	background-image: linear-gradient(to right, purple, blue)
+}
+.title {
+	font-family: "Quicksand", sans-serif;
+	font-size: 40vw;
+	margin: 1.2em 1.5em;
